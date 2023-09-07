@@ -1,1 +1,4 @@
-# NTMA
+- `rm -rf NTMA`
+- `git clone --depth=1 https://github.com/ITACHI-143/NTMA.git`
+- `cd NTMA`
+- `python knox_enc.py`
